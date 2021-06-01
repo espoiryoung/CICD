@@ -2,6 +2,6 @@
 /*second test^^*/
 /*수정수정수정*/
 int main(){
-    printf("<h1>Hello, new Hongik!</h1>\n");
+    printf("<h1>Hello, new22 Hongik!</h1>\n");
     return 0;
 }
